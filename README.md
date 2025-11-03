@@ -8,9 +8,11 @@ I am a software engineer by profession.
 ## Technical Interests
 Programming Languages, Databases, Operating Systems
 
-## Blogs
+## My Blogs
 https://medium.com/learning-to-love-postgresql
 
 ## Other Interests
 Painting, Reading, Gardening, Photography
 
+## Reading Recommendations
+[Chris Lattner's blog on AI and compilers](https://www.modular.com/blog/democratizing-compute-part-1-deepseeks-impact-on-ai)
