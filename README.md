@@ -1,4 +1,3 @@
-# Manish Pratap
 I am a software engineer by profession.
 
 ## Professional Experience
